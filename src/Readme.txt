@@ -1,2 +1,2 @@
-1.jenkins is a automation tool.
-2.jenkins is used for CI and CD
+1.developer commit a code into source code repository
+2.jenkins checkout the code from repository and build it.
